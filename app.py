@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 # ── Azure ML endpoint + storage (replace as needed) ─────────────────────────────
 azure_ml_endpoint = "https://nc-edp-sand-aml01-mdfull.northeurope.inference.ml.azure.com/score"
-api_key = "FNtftxXtqGbPkqiHivV43RQmaEykzOurszM4wPpVSywzAh2DYWgXJQQJ99BIAAAAAAAAAAAAINFRAZML1k8O"
+api_key = "FtlqxkT0kkdSKWkj2WZM2YNjHy39UvtmRvRIxSn1AQZUhl1zq2p7JQQJ99BIAAAAAAAAAAAAINFRAZML3J5Q"
 
 # Base URL already includes the container
 sas_base_url = "https://ncedpdevstor001.blob.core.windows.net/ncedpdevds01"
