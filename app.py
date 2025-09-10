@@ -15,7 +15,7 @@ api_key = "FNtftxXtqGbPkqiHivV43RQmaEykzOurszM4wPpVSywzAh2DYWgXJQQJ99BIAAAAAAAAA
 # Base URL already includes the container
 sas_base_url = "https://ncedpdevstor001.blob.core.windows.net/ncedpdevds01"
 # Adjust this path to match where your blobs live
-blob_image_prefix = "/landing/SAP/IMAGES/MATERIALS/ALL_MATERIALS_RAW/MATERIALS/"
+blob_image_prefix = "/landing/SAP/IMAGES/ALL_MATERIALS_RAW/MATERIALS/"
 sas_token = "sp=r&st=2025-09-10T10:07:08Z&se=2029-01-10T18:22:08Z&sv=2024-11-04&sr=d&sig=PDyhcR4zcW3ArT6yhgtHTd7vl6Sv9EKmVzwSZDzNA08%3D&sdd=5"
 
 # ── Health check for Azure ─────────────────────────────────────────────────────
